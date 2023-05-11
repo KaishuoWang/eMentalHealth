@@ -1,0 +1,101 @@
+Search Term,Record ID,Name,Description,Similarity score
+depression,1634,Beaubien Dumont,Art-therapist,0.8224142800763676
+depression,567,Lorimer,"Senior therapist, instructor therapist, tutor.",0.7063203954939079
+depression,4315,Plantagenet Family Health Team,Family health team.,0.6944061328100152
+depression,1779,UBC Hospital - Nutrition Outpatient Counselling,"Outpatient Nutritional Counselling Services, Physician referral required.",0.6768049295128471
+depression,5475,Suicide Action Montréal,Centre de prévention du suicide.,0.6659878875379986
+depression,5147,Keith Marlowe,"Marital therapy, Trauma",0.6649772190149277
+depression,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.6531878022954353
+depression,842,Deuil secours,"Help line, bereavement support group.",0.6513875173779723
+depression,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",0.6492635118977029
+depression,1047,"Tr'ondëk Hwëch'in First Nations, National Native Alcohol and Drug Abuse Program",National Native Alcohol and Drug Abuse Program,0.6413303181258684
+anxiety,1634,Beaubien Dumont,Art-therapist,0.8028060500197923
+anxiety,567,Lorimer,"Senior therapist, instructor therapist, tutor.",0.7267020071505963
+anxiety,5475,Suicide Action Montréal,Centre de prévention du suicide.,0.6789944412391536
+anxiety,5147,Keith Marlowe,"Marital therapy, Trauma",0.6762531825094995
+anxiety,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.6690706457362351
+anxiety,4315,Plantagenet Family Health Team,Family health team.,0.66905977219156
+anxiety,4382,Counselling,"Counselling services for depression, anxiety, and stress management",0.6639454008477425
+anxiety,842,Deuil secours,"Help line, bereavement support group.",0.656391335738111
+anxiety,5693,Cleidemar Teani,Counselling and Psychotherapy,0.6527815727734232
+anxiety,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",0.6500584432055877
+psychiatrist,1634,Beaubien Dumont,Art-therapist,0.8062248076588934
+psychiatrist,567,Lorimer,"Senior therapist, instructor therapist, tutor.",0.7297409281115891
+psychiatrist,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.6947488688311618
+psychiatrist,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",0.6788325015828429
+psychiatrist,5147,Keith Marlowe,"Marital therapy, Trauma",0.6778141802662203
+psychiatrist,5475,Suicide Action Montréal,Centre de prévention du suicide.,0.6667254955405131
+psychiatrist,5693,Cleidemar Teani,Counselling and Psychotherapy,0.6646276977776725
+psychiatrist,4315,Plantagenet Family Health Team,Family health team.,0.6591882713065051
+psychiatrist,2349,Christine Vestervelt,* Individual Psychological Services* Couple / Marital Psychological Services* Clinical Psychotherapy* Pastoral Counselling* Insurance Coverage,0.6517215387390888
+psychiatrist,693,Dr. Peter Anderson,Clinical neuropsychologist in private practice.,0.6473011725540097
+adhd,5794,Edcommodate,Pychoeducational Assessments,0.7329483255919208
+adhd,1749,Guoba,Offers bereavement therapy,0.7266372569330861
+adhd,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.682412726685003
+adhd,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.682412726685003
+adhd,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.6820205748451764
+adhd,3809,Gerry Philipps-Gange,Registered psychotherapist in Toronto.,0.6796191923124848
+adhd,5463,Julie Wright,Psychological counselling services for adults.,0.6773054237358809
+adhd,3864,Neeti Sachdeva,"Assessment, consultation and therapy for children.",0.6765100852615242
+adhd,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,0.6752124411785618
+adhd,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,0.6750204656160078
+psychologist,1634,Beaubien Dumont,Art-therapist,0.8214646119101591
+psychologist,567,Lorimer,"Senior therapist, instructor therapist, tutor.",0.7010900472739865
+psychologist,5475,Suicide Action Montréal,Centre de prévention du suicide.,0.6811314800120791
+psychologist,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.6764603007449184
+psychologist,5147,Keith Marlowe,"Marital therapy, Trauma",0.6711152987340615
+psychologist,4315,Plantagenet Family Health Team,Family health team.,0.6627830551546398
+psychologist,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",0.6620676972756515
+psychologist,2349,Christine Vestervelt,* Individual Psychological Services* Couple / Marital Psychological Services* Clinical Psychotherapy* Pastoral Counselling* Insurance Coverage,0.6461017068701244
+psychologist,5693,Cleidemar Teani,Counselling and Psychotherapy,0.6424671072692124
+psychologist,693,Dr. Peter Anderson,Clinical neuropsychologist in private practice.,0.6392837327321635
+psychiatrists,5794,Edcommodate,Pychoeducational Assessments,0.8203437234769017
+psychiatrists,1749,Guoba,Offers bereavement therapy,0.7945985556422361
+psychiatrists,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,0.7541843374425928
+psychiatrists,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,0.7250533032877258
+psychiatrists,1786,Trail Child &amp; Youth Mental Health,Provides assessment for clients with eating disorders,0.7231051930666015
+psychiatrists,3130,Tri-City Psychology Services Inc.,"Provides counselling, therapy and assessments for adults and adolescents",0.7200836294625705
+psychiatrists,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.7128868763103292
+psychiatrists,5336,Ms. Katharine De Santos,Provides psychotherapy for 16+ years of age,0.7067690019052407
+psychiatrists,5463,Julie Wright,Psychological counselling services for adults.,0.7049966814762191
+psychiatrists,3144,Lila Knighton,Provides counselling and psychotherapy to individuals in west-central Toronto,0.704213878245189
+Autism,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,0.7883649342525004
+Autism,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.7847959650084175
+Autism,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.7847959650084175
+Autism,1634,Beaubien Dumont,Art-therapist,0.7844202925454149
+Autism,5940,Fight 4 Freedom,Anti human sex trafficking non profit Christian organization,0.7832838010986618
+Autism,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",0.768753396563388
+Autism,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",0.7627919483447411
+Autism,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,0.7612084798865001
+Autism,2316,Dr. Walter Templeman Health Care Centre,20 Bed facility that provides health services to Bell Island Residents,0.7601488466083762
+Autism,5794,Edcommodate,Pychoeducational Assessments,0.7597767972005289
+Psychologists,5794,Edcommodate,Pychoeducational Assessments,0.8486218312311349
+Psychologists,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,0.8379691930907021
+Psychologists,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.8270963397648936
+Psychologists,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.8270963397648936
+Psychologists,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,0.8171474488777671
+Psychologists,6203,Ancestral Memory Therapy,Trauma informed virtual therapy for adults.,0.8171141870501756
+Psychologists,2316,Dr. Walter Templeman Health Care Centre,20 Bed facility that provides health services to Bell Island Residents,0.8163066689318226
+Psychologists,5463,Julie Wright,Psychological counselling services for adults.,0.8146815726598221
+Psychologists,5940,Fight 4 Freedom,Anti human sex trafficking non profit Christian organization,0.81450912971168
+Psychologists,913,HealthPost.ca - Canadian Health Forum,Health forum and support groups for Canadians.,0.8112348612205348
+mental health,1634,Beaubien Dumont,Art-therapist,0.8099607702812675
+mental health,5475,Suicide Action Montréal,Centre de prévention du suicide.,0.741819845531236
+mental health,4315,Plantagenet Family Health Team,Family health team.,0.7323060797691672
+mental health,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.7302829394135544
+mental health,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.7293127229410412
+mental health,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,0.7293127229410412
+mental health,1909,Dr. Patricia Behnke,Child psychologist offer assessment and therapy.,0.7183477598805333
+mental health,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,0.7156629409789746
+mental health,6203,Ancestral Memory Therapy,Trauma informed virtual therapy for adults.,0.7108802639202761
+mental health,5147,Keith Marlowe,"Marital therapy, Trauma",0.710831544484407
+counselling,1634,Beaubien Dumont,Art-therapist,0.7698761970715947
+counselling,5463,Julie Wright,Psychological counselling services for adults.,0.7564967570856446
+counselling,3809,Gerry Philipps-Gange,Registered psychotherapist in Toronto.,0.7489465535991439
+counselling,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7392867057480114
+counselling,5794,Edcommodate,Pychoeducational Assessments,0.7392866456752846
+counselling,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,0.7318538052995206
+counselling,3864,Neeti Sachdeva,"Assessment, consultation and therapy for children.",0.7266571368578407
+counselling,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",0.7182764123039147
+counselling,567,Lorimer,"Senior therapist, instructor therapist, tutor.",0.7171823940639986
+counselling,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",0.7164220338118701

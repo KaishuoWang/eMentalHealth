@@ -1,0 +1,316 @@
+Search Term,Record ID,Name,Description,model
+depression,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa']"
+depression,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa', 'XLNet']"
+depression,5147,Keith Marlowe,"Marital therapy, Trauma","['BERT', 'RoBERTa', 'XLNet']"
+depression,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,['BERT']
+depression,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.","['BERT', 'SGPT']"
+depression,668,Ontario Fragile X Support Group,Support group for Fragile X.,['BERT']
+depression,4315,Plantagenet Family Health Team,Family health team.,"['BERT', 'XLNet']"
+depression,4382,Counselling,"Counselling services for depression, anxiety, and stress management",['BERT']
+depression,5429,Julian D'Souza,"Counselling for Addictions, Depression, Anxiety and Couples counselling.",['BERT']
+depression,3822,Crystal Arber,"Provides PTSD Counselling using EMDRHelp for flashbacks, nightmares, difficulty regulating feelings or feeling numb. Help for addictions. Provide Family therapy and teen counselling",['BERT']
+anxiety,5147,Keith Marlowe,"Marital therapy, Trauma","['BERT', 'RoBERTa', 'XLNet']"
+anxiety,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa', 'XLNet']"
+anxiety,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa', 'XLNet']"
+anxiety,4149,Natalie Shay,Provides counselling in adults and youth in * Stress Management * Anxiety * Panic disorders * Emotional Eating *  Binge Eating * Weight loss * Obesity * Self esteem * CBT,"['BERT', 'SGPT']"
+anxiety,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",['BERT']
+anxiety,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,"['BERT', 'SGPT']"
+anxiety,3854,Mark Fraser,"Psychotherapy for stress and anger management, anxiety, depression, ADHD and Neurofeedback","['BERT', 'SGPT']"
+anxiety,3822,Crystal Arber,"Provides PTSD Counselling using EMDRHelp for flashbacks, nightmares, difficulty regulating feelings or feeling numb. Help for addictions. Provide Family therapy and teen counselling",['BERT']
+anxiety,5670,Ms. Parisa Ghanbari,"Psychotherapy services in Farsi  EnglishFor individuals with anxiety, depression, relationships, family issues, stress, life transition",['BERT']
+anxiety,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,"['BERT', 'RoBERTa']"
+psychiatrist,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa', 'XLNet']"
+psychiatrist,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa', 'XLNet']"
+psychiatrist,620,Dr. Carole St. Denis,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,618,Horne,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,617,Dr. Petra Duschner,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,616,Bowles,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,614,Dr. Sandra Burns,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,613,Brunette,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,612,Borovay,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrist,610,Bloch,Psychologist in private practice.,['BERT']
+adhd,5693,Cleidemar Teani,Counselling and Psychotherapy,['BERT']
+adhd,5147,Keith Marlowe,"Marital therapy, Trauma",['BERT']
+adhd,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,"['BERT', 'RoBERTa']"
+adhd,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,['BERT']
+adhd,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",['BERT']
+adhd,3854,Mark Fraser,"Psychotherapy for stress and anger management, anxiety, depression, ADHD and Neurofeedback",['BERT']
+adhd,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa', 'SGPT']"
+adhd,3126,Dr. David Teplin,"Primary focus on clinical assessment of adult ADHD, substance use problems, anxiety (some forms), and depression (some forms).",['BERT']
+adhd,4382,Counselling,"Counselling services for depression, anxiety, and stress management",['BERT']
+adhd,5508,Jenna Matisz,Registered Social WorkerSpecializes in treating eating disorders,['BERT']
+psychologist,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa', 'XLNet']"
+psychologist,620,Dr. Carole St. Denis,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,618,Horne,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,617,Dr. Petra Duschner,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,616,Bowles,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,614,Dr. Sandra Burns,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,613,Brunette,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,612,Borovay,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,610,Bloch,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychologist,609,Ms. Susan Baxt,Psychologist in private practice.,['BERT']
+psychiatrists,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa']"
+psychiatrists,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa', 'SGPT']"
+psychiatrists,620,Dr. Carole St. Denis,Psychologist in private practice.,['BERT']
+psychiatrists,618,Horne,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrists,617,Dr. Petra Duschner,Psychologist in private practice.,"['BERT', 'SGPT']"
+psychiatrists,616,Bowles,Psychologist in private practice.,['BERT']
+psychiatrists,614,Dr. Sandra Burns,Psychologist in private practice.,['BERT']
+psychiatrists,613,Brunette,Psychologist in private practice.,['BERT']
+psychiatrists,612,Borovay,Psychologist in private practice.,['BERT']
+psychiatrists,610,Bloch,Psychologist in private practice.,['BERT']
+Autism,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa', 'SGPT', 'XLNet']"
+Autism,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa']"
+Autism,5147,Keith Marlowe,"Marital therapy, Trauma","['BERT', 'RoBERTa']"
+Autism,668,Ontario Fragile X Support Group,Support group for Fragile X.,['BERT']
+Autism,4315,Plantagenet Family Health Team,Family health team.,['BERT']
+Autism,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,"['BERT', 'RoBERTa']"
+Autism,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,['BERT']
+Autism,5794,Edcommodate,Pychoeducational Assessments,"['BERT', 'XLNet']"
+Autism,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",['BERT']
+Autism,5508,Jenna Matisz,Registered Social WorkerSpecializes in treating eating disorders,['BERT']
+Psychologists,1634,Beaubien Dumont,Art-therapist,"['BERT', 'RoBERTa']"
+Psychologists,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa']"
+Psychologists,4315,Plantagenet Family Health Team,Family health team.,['BERT']
+Psychologists,620,Dr. Carole St. Denis,Psychologist in private practice.,['BERT']
+Psychologists,618,Horne,Psychologist in private practice.,"['BERT', 'SGPT']"
+Psychologists,617,Dr. Petra Duschner,Psychologist in private practice.,"['BERT', 'SGPT']"
+Psychologists,616,Bowles,Psychologist in private practice.,"['BERT', 'SGPT']"
+Psychologists,614,Dr. Sandra Burns,Psychologist in private practice.,"['BERT', 'SGPT']"
+Psychologists,613,Brunette,Psychologist in private practice.,['BERT']
+Psychologists,612,Borovay,Psychologist in private practice.,['BERT']
+mental health,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'RoBERTa']"
+mental health,5147,Keith Marlowe,"Marital therapy, Trauma","['BERT', 'RoBERTa', 'XLNet']"
+mental health,4382,Counselling,"Counselling services for depression, anxiety, and stress management",['BERT']
+mental health,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,['BERT']
+mental health,5508,Jenna Matisz,Registered Social WorkerSpecializes in treating eating disorders,['BERT']
+mental health,4315,Plantagenet Family Health Team,Family health team.,"['BERT', 'SGPT', 'XLNet']"
+mental health,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,"['BERT', 'XLNet']"
+mental health,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,['BERT']
+mental health,3864,Neeti Sachdeva,"Assessment, consultation and therapy for children.",['BERT']
+mental health,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,"['BERT', 'RoBERTa']"
+counselling,5693,Cleidemar Teani,Counselling and Psychotherapy,"['BERT', 'SGPT', 'XLNet']"
+counselling,5429,Julian D'Souza,"Counselling for Addictions, Depression, Anxiety and Couples counselling.",['BERT']
+counselling,4382,Counselling,"Counselling services for depression, anxiety, and stress management",['BERT']
+counselling,1749,Guoba,Offers bereavement therapy,['BERT']
+counselling,4956,Lisa Machek,Providing individual and family counselling.,['BERT']
+counselling,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,['BERT']
+counselling,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education","['BERT', 'SGPT', 'XLNet']"
+counselling,4878,MA Davison,Private counselling for adults and youth,['BERT']
+counselling,3944,Elzbieta Letourneau,"Individual, couple and family therapy.",['BERT']
+counselling,5147,Keith Marlowe,"Marital therapy, Trauma","['BERT', 'RoBERTa']"
+depression,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,['RoBERTa']
+depression,2541,Michelle McKitrick,"Relationship counselling, sex therapy, trauma therapy",['RoBERTa']
+depression,5928,Equilibrium Mental Health &amp; Wellness,"Equilibrium is a Toronto-based mental health and wellness centre (operating virtually and in person) offering individual therapy, group therapy and a variety of additional wellness-focused services in a warm and welcoming environment.We are here to help with a variety of challenges. Some of these include: Difficulties regulating emotionsAngerSubstance useImpulsive behaviourRelationship difficultiesGrief and lossLow self-esteemIdentity confusionDay-to-day stressBorderline Personality DisorderPTSD or traumaEating disorders/body image issuesAnxietyDepressionChronic pain or insomniaWe implement a variety of treatment modalities including Dialectical Behaviour Therapy (DBT), Cognitive Behavioural Therapy (CBT), Prolonged Exposure for PTSD (PE), as well as mindfulness and compassion based approaches.",['RoBERTa']
+depression,5005,Effie Mitskopoulos,Helping people heal from a variety of mental health conditions by integrating Western interventions with mindfulness and hypnosis.,['RoBERTa']
+depression,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['RoBERTa']
+depression,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+depression,5125,Ms. Janice Clarke,"I work with adults during difficult life transitions such as divorce  separation, grief  loss, empty nest, job loss, mid-life crisis, quarter - life crisis.",['RoBERTa']
+anxiety,5928,Equilibrium Mental Health &amp; Wellness,"Equilibrium is a Toronto-based mental health and wellness centre (operating virtually and in person) offering individual therapy, group therapy and a variety of additional wellness-focused services in a warm and welcoming environment.We are here to help with a variety of challenges. Some of these include: Difficulties regulating emotionsAngerSubstance useImpulsive behaviourRelationship difficultiesGrief and lossLow self-esteemIdentity confusionDay-to-day stressBorderline Personality DisorderPTSD or traumaEating disorders/body image issuesAnxietyDepressionChronic pain or insomniaWe implement a variety of treatment modalities including Dialectical Behaviour Therapy (DBT), Cognitive Behavioural Therapy (CBT), Prolonged Exposure for PTSD (PE), as well as mindfulness and compassion based approaches.",['RoBERTa']
+anxiety,1806,West Coast General Hospital,Admission for medical stabilization - emergency situations only.,['RoBERTa']
+anxiety,4241,Katherine Baldwin,Dr. Baldin is a Consultant Paediatrician who offers consultation to patients from birth to aged 17. Dr. Baldwin's areas of expertise include: * Overweight and obesity* Infant feeding difficulties* Failure to thrive and growth concerns* Picky eating* Sleep problems* Developmental delay* Headaches* ADHD* Anxiety,['RoBERTa']
+anxiety,2541,Michelle McKitrick,"Relationship counselling, sex therapy, trauma therapy",['RoBERTa']
+anxiety,5463,Julie Wright,Psychological counselling services for adults.,['RoBERTa']
+anxiety,1453,StoneTree Naturopathic Clinic,"Finding and treating the cause of your symptoms.Preventive medicine,colon irrigation,intravenous therapy,inhalation therapy,clinical nutrition,weight loss program,homeopathy, lifestyle counseling,herbal medicines.Effective treatments fordepression,ADHD/autism,pain,allergies,skin problems,PMS/menopause,fatigue,andmuch more.",['RoBERTa']
+psychiatrist,693,Dr. Peter Anderson,Clinical neuropsychologist in private practice.,"['RoBERTa', 'XLNet']"
+psychiatrist,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,['RoBERTa']
+psychiatrist,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+psychiatrist,2541,Michelle McKitrick,"Relationship counselling, sex therapy, trauma therapy",['RoBERTa']
+psychiatrist,4315,Plantagenet Family Health Team,Family health team.,"['RoBERTa', 'XLNet']"
+psychiatrist,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",['RoBERTa']
+psychiatrist,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['RoBERTa']
+psychiatrist,698,Barry,Therapy that taps into your energy!  Deborah provides a combination of supportive counselling and energy psychology to ensure effective short-term therapy.  Ideal for getting beyond stumbling blocks and realising your untapped potential!  Complementary first session.,['RoBERTa']
+adhd,5905,Dr. Jean Saint-Cyr,http://saintcyrpsychology.ca/,['RoBERTa']
+adhd,1806,West Coast General Hospital,Admission for medical stabilization - emergency situations only.,['RoBERTa']
+adhd,3610,Triple P Parenting Group TEST,This is a test entry.,['RoBERTa']
+adhd,3316,Treating Anxiety Disorders in Children and Adolescents,"Anxiety disorders are the most common mental disorders found in Canadian children, with an estimated prevalence rate of 6.4 percent (Stats Canada 2009). Anxiety impairs daily functioning and hinders the overall development of children and youth. From excessive shyness and reassurance seeking, to panic attacks, school phobia, test anxiety, obsessive or compulsive behavior, anxiety can manifest itself in a myriad of ways. These symptoms impact children at home and school, while putting palpable strain the adults trying to help. The research is clear: much of what parents and other adults do to decrease the anxiety actually strengthens it by unintentionally reinforcing avoidance and rigidity. This workshop teaches seven concrete strategies that address anxiety’s quest for certainty and comfort. The strategies give teachers, counselors, school nurses, child care providers and youth workers a plan that guides children and parents out of common but powerful patterns of anxiety, and moves them toward greater autonomy, confidence and resilience. - See more at: http://www.jackhirose.com/workshop/treating-anxiety-disorders-160414-victoria/#sthash.MZcjA8bJ.dpuf",['RoBERTa']
+adhd,3314,Treating Anxiety Disorders in Children and Adolescents,"Anxiety disorders are the most common mental disorders found in Canadian children, with an estimated prevalence rate of 6.4 percent (Stats Canada 2009). Anxiety impairs daily functioning and hinders the overall development of children and youth. From excessive shyness and reassurance seeking, to panic attacks, school phobia, test anxiety, obsessive or compulsive behavior, anxiety can manifest itself in a myriad of ways. These symptoms impact children at home and school, while putting palpable strain the adults trying to help. The research is clear: much of what parents and other adults do to decrease the anxiety actually strengthens it by unintentionally reinforcing avoidance and rigidity. This workshop teaches seven concrete strategies that address anxiety’s quest for certainty and comfort. The strategies give teachers, counselors, school nurses, child care providers and youth workers a plan that guides children and parents out of common but powerful patterns of anxiety, and moves them toward greater autonomy, confidence and resilience. - See more at: http://www.jackhirose.com/workshop/treating-anxiety-disorders-140414-kelowna/#sthash.iv7gIjbk.dpuf",['RoBERTa']
+adhd,3313,The 10 Best-Ever Depression Management Techniques,"All depressions are not created equal. Understanding the origin of your clients’ depressions and the impact on treatment can make a big difference to your success in therapy and help clients move to management of their symptoms and then recovery (without medication) from this insidious disorder. In this workshop exploring experiential and didactic methods, you will learn 10 methods that you can immediately apply to diminish symptoms in clients suffering from depression. The workshop will highlight aspects of brain function that underlie depression and focus on treatment methods that will counteract depressive symptoms. The pragmatic focus of this seminar will be on exploring psychotherapy methods that can improve the physiology, cognition, and behaviour of depressed clients. - See more at: http://www.jackhirose.com/workshop/10-depression-techniques-wehrenberg-burnaby-110414/#sthash.orufCGxV.dpuf",['RoBERTa']
+adhd,3311,The 10 Best-Ever Depression Management Techniques,"All depressions are not created equal. Understanding the origin of your clients’ depressions and the impact on treatment can make a big difference to your success in therapy and help clients move to management of their symptoms and then recovery (without medication) from this insidious disorder. In this workshop exploring experiential and didactic methods, you will learn 10 methods that you can immediately apply to diminish symptoms in clients suffering from depression. The workshop will highlight aspects of brain function that underlie depression and focus on treatment methods that will counteract depressive symptoms. The pragmatic focus of this seminar will be on exploring psychotherapy methods that can improve the physiology, cognition, and behaviour of depressed clients. - See more at: http://www.jackhirose.com/workshop/10-best-ever-depression-wehrenberg-calgary-040414/#sthash.y9TjuKec.dpuf",['RoBERTa']
+adhd,4029,Communicating With Clients using Mobile Technology &amp; On-Line Counselling,"While using mobile technologies in communicating with clients can offer unique possibilities, training is essential to address the unique issues and prevent problems that can and do arise.  Don’t miss this opportunity to learn the essentials in corresponding with clients using modern day technology.This workshop will provide participants with a solid grounding in the various aspects of using mobile technologies in communication with and counselling their clients. Participants will learn about Internet security, considerations in employing mobile devices in communicating with clients and other important aspect of the technology. The variety of smart phone-based modalities and software options will be compared and evaluated. Time will be spent reviewing policies and procedures relevant to mobile communication with clients and clinical techniques that enhance the therapeutic effectiveness of text-based methods like email and text-chat. Recent research undertaken by the presenter and his colleagues that explored communication online and in text will be reviewed and lessons learned will be presented. Attention will be given to establishing and strengthening the therapeutic alliance in text, as well as to a variety of writing techniques including Presence Techniques.$185 plus hst, group rates available. To register, visit www.SOSWorkshops.ca or e-mail Register@SOSWorkshops.ca. 226-268-2397",['RoBERTa']
+psychologist,5693,Cleidemar Teani,Counselling and Psychotherapy,"['RoBERTa', 'XLNet']"
+psychologist,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,['RoBERTa']
+psychologist,693,Dr. Peter Anderson,Clinical neuropsychologist in private practice.,"['RoBERTa', 'XLNet']"
+psychologist,2541,Michelle McKitrick,"Relationship counselling, sex therapy, trauma therapy",['RoBERTa']
+psychologist,5147,Keith Marlowe,"Marital therapy, Trauma","['RoBERTa', 'XLNet']"
+psychologist,4315,Plantagenet Family Health Team,Family health team.,"['RoBERTa', 'XLNet']"
+psychologist,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+psychologist,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['RoBERTa']
+psychologist,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",['RoBERTa']
+psychiatrists,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+psychiatrists,693,Dr. Peter Anderson,Clinical neuropsychologist in private practice.,"['RoBERTa', 'SGPT']"
+psychiatrists,899,Fisher Bloom Psychological Services,"Psychological services for children, couples and families",['RoBERTa']
+psychiatrists,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,['RoBERTa']
+psychiatrists,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",['RoBERTa']
+psychiatrists,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['RoBERTa']
+psychiatrists,2541,Michelle McKitrick,"Relationship counselling, sex therapy, trauma therapy",['RoBERTa']
+psychiatrists,4315,Plantagenet Family Health Team,Family health team.,['RoBERTa']
+Autism,5224,ADHD Community Workshop,"This workshop is geared to Parents and Educators, Adults and Adolescents with ADHD, and their families, Health and Medical Professionals Topics Include:It can’t just be ADHD? The surprise packages that come with it?Relationships Matter: Building Positive Relationships in the Context of ADHDGoing to School with ADHDUnderstanding ADHD in the Workplace Strengths and ImpairmentsADHD and AnxietyAdult ADHD and the Family",['RoBERTa']
+Autism,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education","['RoBERTa', 'XLNet']"
+Autism,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+Autism,4241,Katherine Baldwin,Dr. Baldin is a Consultant Paediatrician who offers consultation to patients from birth to aged 17. Dr. Baldwin's areas of expertise include: * Overweight and obesity* Infant feeding difficulties* Failure to thrive and growth concerns* Picky eating* Sleep problems* Developmental delay* Headaches* ADHD* Anxiety,['RoBERTa']
+Autism,6027,Alyssa Koenderink,Providing Psychotherapy and Clinical Supervision to Canadians,['RoBERTa']
+Autism,6195,Gregory Smith,"I work in a warm, supportive, and conversational way, with the aim of establishing a strong and trusting relationship with you. I offer a safe, non-judgmental, and confidential space where we can explore your experiences, feelings, and concerns together.Office located in CENTRETOWN Ottawa-Individual Counselling and Couple Counselling-In-Person or Online Sessions-Adults and TeenPersonality DisordersAddictionFamily ConflictIssuesADHDAdoptionAnxietyBipolar DisorderDepressionDomestic ViolenceEating DisordersGamblingMen's IssuesRelationship IssuesSelf EsteemSexual AbuseSubstance UseTransgenderTrauma and PTSDVideo Game Addictionetc.",['RoBERTa']
+Psychologists,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+Psychologists,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",['RoBERTa']
+Psychologists,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,['RoBERTa']
+Psychologists,693,Dr. Peter Anderson,Clinical neuropsychologist in private practice.,['RoBERTa']
+Psychologists,5147,Keith Marlowe,"Marital therapy, Trauma",['RoBERTa']
+Psychologists,1806,West Coast General Hospital,Admission for medical stabilization - emergency situations only.,['RoBERTa']
+Psychologists,5224,ADHD Community Workshop,"This workshop is geared to Parents and Educators, Adults and Adolescents with ADHD, and their families, Health and Medical Professionals Topics Include:It can’t just be ADHD? The surprise packages that come with it?Relationships Matter: Building Positive Relationships in the Context of ADHDGoing to School with ADHDUnderstanding ADHD in the Workplace Strengths and ImpairmentsADHD and AnxietyAdult ADHD and the Family",['RoBERTa']
+Psychologists,899,Fisher Bloom Psychological Services,"Psychological services for children, couples and families",['RoBERTa']
+mental health,1634,Beaubien Dumont,Art-therapist,"['RoBERTa', 'XLNet']"
+mental health,2541,Michelle McKitrick,"Relationship counselling, sex therapy, trauma therapy",['RoBERTa']
+mental health,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['RoBERTa']
+mental health,3940,Elzbieta Letourneau,Psychotherapy and Counseling for individuals and couples,['RoBERTa']
+mental health,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",['RoBERTa']
+mental health,5088,"Dr. Sara Quirke, Ph.D.",Psychoeducational assessment and counselling for children and adolescents,['RoBERTa']
+mental health,5928,Equilibrium Mental Health &amp; Wellness,"Equilibrium is a Toronto-based mental health and wellness centre (operating virtually and in person) offering individual therapy, group therapy and a variety of additional wellness-focused services in a warm and welcoming environment.We are here to help with a variety of challenges. Some of these include: Difficulties regulating emotionsAngerSubstance useImpulsive behaviourRelationship difficultiesGrief and lossLow self-esteemIdentity confusionDay-to-day stressBorderline Personality DisorderPTSD or traumaEating disorders/body image issuesAnxietyDepressionChronic pain or insomniaWe implement a variety of treatment modalities including Dialectical Behaviour Therapy (DBT), Cognitive Behavioural Therapy (CBT), Prolonged Exposure for PTSD (PE), as well as mindfulness and compassion based approaches.",['RoBERTa']
+counselling,5463,Julie Wright,Psychological counselling services for adults.,"['RoBERTa', 'XLNet']"
+counselling,5905,Dr. Jean Saint-Cyr,http://saintcyrpsychology.ca/,['RoBERTa']
+counselling,1081,Ala-Teen,For teenagers whose lives are affected by a drinking family member.Call for more information:Charlottetown: 902-892-6698Summerside: 902-886-2199,['RoBERTa']
+counselling,6065,Ms. Christine Dimen,Provides comprehensive psychoeducational assessments.,['RoBERTa']
+counselling,312,Overeaters Anonymous,"""Overeaters Anonymous is a fellowship of individuals working to overcome compulsive overeating based on a 12-step approach.""",['RoBERTa']
+counselling,2313,Shauna Haight,Speech and Language Therapist in private practice.,['RoBERTa']
+counselling,842,Deuil secours,"Help line, bereavement support group.",['RoBERTa']
+counselling,1563,Social Planning Council of Cambridge &amp; North Dumfries,*Provides information and referral services*Online database of community services*Several directories published (available online) for specific audiences,['RoBERTa']
+counselling,1806,West Coast General Hospital,Admission for medical stabilization - emergency situations only.,['RoBERTa']
+depression,3854,Mark Fraser,"Psychotherapy for stress and anger management, anxiety, depression, ADHD and Neurofeedback",['SGPT']
+depression,3300,Ms. Soula Korovessis,Provides individual counselling in areas of * Depression * Anxiety* Trauma* Loss  Grief,['SGPT']
+depression,5617,Kimberly Brown,Post Traumatic Stress Disorder (PTSD)    Complex PTSDAnxiety DepressionAddictionsAnger ManagementDissociative Identity DisorderPast or Present Abuse TraumaPersonality DisordersRelationship or Marital StressGender and MasculinitiesGender Based ViolenceSelf Esteem Issues,['SGPT']
+depression,5665,Christina Janiga,"Offering a range of Psychotherapies including individual and group sessions.These include:    Depression    Anxiety    Women’s issues: perinatal, postpartum, infertility, menopause    Borderline personality disorder    Domestic violence/woman abuse    Trauma    Grief    Life transitions    Chronic Pain    Autoimmune Disease",['SGPT']
+depression,1811,Wendy Paterson,"Specializing in the treatment of anxiety, depression, trauma (EMDR certified), abuse, addictions, health concerns, relationship concerns, grief and loss",['SGPT']
+depression,3566,Dr. Michael Ellery,"Dialectical (DBT) and cognitive behavioural therapy (CBT) for mood, anxiety, anger, addictions, relationships, trauma and other problems with thoughts, feelings, and behaviours",['SGPT']
+depression,4348,DBT Hamilton,"We offer services for individuals who experience emotional dysregulation or who are diagnosed with Borderline Personality Disorder (BPD), as well as related issues.Our therapies strive to assist those who have:Difficulties regulating emotions and BPDSuicidal behaviors, including suicide and self-injuryImpulsive behaviours (substance abuse, risky sexual        behaviours, shoplifting)Intense emotions (shame, sadness, fear, anger)Difficulty building and maintaining healthy relationshipsChronic feelings of emptinessHigh levels of self-hatred and shamePosttraumatic Stress Disorder or the continuing effects of past traumatic experiences",['SGPT']
+depression,4112,Ottawa Neurofeedback Centre,"Provides neurofeedback, which is a drug-free and brain-based treatment for psychological and health conditions, including depression, anxiety, PTSD, Asperger’s Syndrome and Epilepsy.",['SGPT']
+depression,2243,Ms. Veronica Dixon,"Veronica Dixon, Registered Psychologist with South Calgary Psychology works largely from a Cognitive Behavioural Perspective in the individual treatment of Adults and Children struggling with various Anxiety Disorders (Generalized Anxiety, PTSD, Separation Anxiety, Social Phobia, School Refusal, Panic Disorder, etc), Depression (Major Depression, Bipolar, etc), Stress associated with major life changes (divorce, separation, marital conflict, school change, etc), and various Health/Medical associated conditions (Chronic Pain, Somatization, Disease Management such as Diabetes, Goal attainment, etc.)",['SGPT']
+anxiety,3300,Ms. Soula Korovessis,Provides individual counselling in areas of * Depression * Anxiety* Trauma* Loss  Grief,['SGPT']
+anxiety,4463,Ms. Tammy Daigle,Offering services regarding:• Depression• Stress/Anxiety• Anger Management• Grief/Loss• Addictions• Family Conflicts• Parental Challenges• Adolescent Struggles• Couple/Marital Difficulties• Separation/Divorce• Medical/Health Concerns• Work Stress/Conflict• Self-Esteem/Body-Image,['SGPT']
+anxiety,2932,Acceptance &amp; Commitment Therapy Group for Anxiety,"Registration deadline 9/15/2012  Register online at http://www.regonline.com/Fall2012ACTonAnxietyOur confidential, structured ACT on Anxiety group is focused on providing practical cognitive, behavioral and mindfulness strategies for managing some of the most common anxiety disorders including: Generalized Anxiety Disorder, Specific Phobia, Social Anxiety, and mild to moderate forms of Obsessive Compulsive Disorder.",['SGPT']
+anxiety,1811,Wendy Paterson,"Specializing in the treatment of anxiety, depression, trauma (EMDR certified), abuse, addictions, health concerns, relationship concerns, grief and loss",['SGPT']
+anxiety,3652,How to Deal with Difficult Feelings,"Dealing with difficult feelings like depression, anxiety, loneliness or anger?When you attend you will: -Learn the 3 A's (awarenss, acknowledge, allow)-Identify when and how to express or supress feelings-Experience practical ways to deal with feelings",['SGPT']
+anxiety,6227,Sonya Deol,"Counselling and psychotherapy for individuals experiencing anxiety, depression, grief/loss, relationship issues, and stress.",['SGPT']
+anxiety,1898,Adlerian Counselling and Consulting Group,We are a leading provider of psychotherapy and counselling. Anger ManagementAnxiety and PanicCommunication DifficultiesConflict ResolutionCouple TherapyDepressionFamily of Origin IssuesGrief and LossIntergenerational CommunicationParenting Adult ChildrenParenting Children and TeensPost-Traumatic StressSelf-EsteemSeparation and DivorceStress/BurnoutWorkplace StressWork-Life Balance ,['SGPT']
+psychiatrist,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist","['SGPT', 'XLNet']"
+psychiatrist,3809,Gerry Philipps-Gange,Registered psychotherapist in Toronto.,['SGPT']
+psychiatrist,5907,Carla Barton,Psychotherapist providing service to LGBTQ community.,['SGPT']
+adhd,1556,Community Information Referral Centre,"A community resource database for the regions of Algoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin and Sudbury.",['SGPT']
+adhd,1018,l’Association Lavalloise de Parents pour le Bien-Être Mental,"L' ALPABEM (l'Association Lavalloise de Parents pour le Bien-&Ecirc;tre Mental) a pour mission de soutenir les membres de l'entourage d'une personne qui prsente des manifestations cliniques relies  un trouble majeur de sant mentale, en leur offrant une gamme de services visant  les informer, les aider et les outiller en vue d'une meilleure qualit de vie.",['SGPT']
+adhd,2103,Autisme et troubles envahissants du développement Montréal,"Organisme sans but lucratif ayant comme mission première le développement de services directs répondant aux besoins des personnes autistes et leur famille, ainsi que le dèfense des droits et des intérêts de ceux-ci.",['SGPT']
+adhd,1555,CIRC – Community Information Referral Centre,"The Community Information Referral Centre (CIRC) is a community resource database for the regions ofAlgoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin andSudbury.",['SGPT']
+adhd,1554,CIRC – Community Information Referral Centre,"The Community Information Referral Centre (CIRC) is a community resource database for the regions ofAlgoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin andSudbury.",['SGPT']
+adhd,1553,CIRC – Community Information Referral Centre,"The Community Information Referral Centre (CIRC) is a community resource database for the regions ofAlgoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin andSudbury.",['SGPT']
+adhd,1552,CIRC – Community Information Referral Centre,"The Community Information Referral Centre (CIRC) is a community resource database for the regions ofAlgoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin andSudbury.",['SGPT']
+adhd,1551,CIRC – Community Information Referral Centre,"The Community Information Referral Centre (CIRC) is a community resource database for the regions ofAlgoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin andSudbury.",['SGPT']
+adhd,1550,CIRC – Community Information Referral Centre,"The Community Information Referral Centre (CIRC) is a community resource database for the regions ofAlgoma, Cochrane, Kenora, Nipissing, Rainy River, Sault Ste Marie, Temiskaming, Thunder Bay, Manitoulin andSudbury.",['SGPT']
+psychologist,708,Dr. Marilen J. Gerber,Psychologist in private practice in assessment and therapy.,['SGPT']
+psychologist,5391,Simone Kortstee,"Psychologist in private practice, who can also do neuropsychological assessments.",['SGPT']
+psychiatrists,5334,The Medical Clinic for Person Centred Psychotherapy,"OHIP covered and non-OHIP covered supportive psychotherapy and counselling provided by Psychiatrists (MDs), Psychologists and GP Psychotherapist (MDs)",['SGPT']
+psychiatrists,615,Dr. Mario Cappelli,Psychologist in private practice.  Specializes in Psychological and Psychoeducational Assessments (including for ADD/ADHD); Training includes CBT as well as attachment therapies such as dyadic developmental psychotherapy (DDP).,['SGPT']
+psychiatrists,647,Ogston,Psychologist in private practice. Areas of expertise include autism spectrum disorders.,['SGPT']
+psychiatrists,681,Dr. Ronald Seatter,Psychologist in private practice that specializes in assessing and treating a variety of health issues.,['SGPT']
+psychiatrists,5391,Simone Kortstee,"Psychologist in private practice, who can also do neuropsychological assessments.",['SGPT']
+psychiatrists,708,Dr. Marilen J. Gerber,Psychologist in private practice in assessment and therapy.,['SGPT']
+Autism,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,"['SGPT', 'XLNet']"
+Autism,5847,Clinique Neuro-Outaouais,Private practice offering a wide range of brain treatments and services including * Post-stroke recovery * Cognitive impairment clinic * PTSD treatment * IV therapy * Transcranial magnetic stimulation * Electromyography (EMG) * Clinique Neurogym * Carpal tunnel syndrome.,['SGPT']
+Autism,5730,Engaging Minds Learning Group,ABA  IBI Therapy at Home or in clinic for Developing Language. Crucial Academic  Social Skills. Autism  Behavioural Intervention  more,['SGPT']
+Autism,2977,On Solid Ground,"On Solid Ground has developed individualized ABA based programs for individuals with Autism Spectrum Disorders, Pervasive Developmental Disorders, Developmental Delays, Speech and Language Delays, Downs-Syndrome, and ADHD.",['SGPT']
+Autism,4533,Janet MacMillan,Provides QEEG analyses and neurofeedback training as well as pEMF and photobiomodulation.,['SGPT']
+Autism,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist","['SGPT', 'XLNet']"
+Autism,3500,Dr. Vicki Veroff,"Licensed neuropsychologist providing private therapy and assessments for children, adolescents, adults, couples and families. Mindfulness Training and groups as well as other brain-based interventions (e.g., Cogmed Working Memory Training, Alpha Stim, Bio Acoustical Utilization Device) also offered.",['SGPT']
+Autism,2434,Autism Conference,"Dr. Paula Kuth - You're Going to Love This Kid: Teaching and Supporting Children on the Spectrum and Barbara Sher - The Power of Play: How Sensory Games Can Stimulate Motor, Social, Cognitive and Language Skills for All Children",['SGPT']
+Autism,5518,Ms. Liz Timmers,"Therapies Practiced: Eye Movement Desensitization and Reprocessing (EMDR), Collaborative Problem Solving (CPS), Dialectical Behaviour Therapy (DBT), as well as skills from Solution-Focused Therapy, Cognitive Behaviour Therapy (CBT), and Multisystemic Therapy (MST). Treatment Specialties: Trauma  PTSD, Anxiety, Depression, Stress, Grief  Loss, Relationship Issues (including polyamorous and kink-involved dynamics), Family  Interpartner Violence, Self-Esteem  Confidence, Substance Use/Abuse, Anger Management, 2SLGBTQIA+ and Gender Nonconforming Clients",['SGPT']
+Psychologists,5391,Simone Kortstee,"Psychologist in private practice, who can also do neuropsychological assessments.",['SGPT']
+Psychologists,708,Dr. Marilen J. Gerber,Psychologist in private practice in assessment and therapy.,['SGPT']
+Psychologists,1701,Heaman,"Psychologist. Individual and couples counselling in the areas of marital counselling, stress, depression, self esteem, anxiety, bereavement, pain. Psychotherapy, psychological assessment (re personality, neuropsychological screenings).American Sign Language (ASL) available",['SGPT']
+Psychologists,2539,Dr. Sharon Francis Harrison,"Psychologist offering assessment and psychotherapy to children, youth, adults and families within a psychodynamic framework.",['SGPT']
+Psychologists,615,Dr. Mario Cappelli,Psychologist in private practice.  Specializes in Psychological and Psychoeducational Assessments (including for ADD/ADHD); Training includes CBT as well as attachment therapies such as dyadic developmental psychotherapy (DDP).,['SGPT']
+Psychologists,628,Dr. Karen Davies,"Psychologist in private practice, working out of Gilmour Psychological Services.",['SGPT']
+mental health,5388,ClearMind Neurotherapy - Dr. Linda Beckett and Associates,"Providing mental health care and peak performance including psychotherapy, neurofeedback and neuromodulation using QEEG assessment.",['SGPT']
+mental health,3597,Hotel Dieu Grace Healthcare,Provides a number of mental health services such as...OTN Addictions and Mental Health ServicesMood  Anxiety TreatmentGeriatric Mental Health Outreach,['SGPT']
+mental health,3118,"The Yellow Door Group, Psychological &amp; Support Services Ltd.","Providing assessment, treatment, intervention  counseling to children, adolescents, and adults on a variety of mental health/life issues.",['SGPT']
+mental health,681,Dr. Ronald Seatter,Psychologist in private practice that specializes in assessing and treating a variety of health issues.,['SGPT']
+mental health,5957,Byward Family Health Team,Family health team with * family physicians * pediatricians * mental health services * physiotherapy and massage therapy * travel medicine clinic * student health.,['SGPT']
+mental health,4613,Angel Hands Integrative,"Integrative centre offering Innovative mindbody approach to mental and physical health. Specilizing in Trauma, PTSD, complex pain syndrome and chronic disease.",['SGPT']
+mental health,6128,Surrey Neuroplasticity Clinic,"A brain health clinic which specializes in: Concussion recovery, Neurofeedback, Long COVID recovery, Cognitive training, mental health services, clinical hypnosis.",['SGPT']
+mental health,3502,Madison Community Services,"Promotes the health, recovery and community integration of persons with mental health challenges through: * Advocacy* Education * Community based support services * Social and recreational workshops and supports, e.g. yoga, art expression, group therapy",['SGPT']
+mental health,3407,Nipissing First Nation,Health Services include: Community Health ProgramDiabetes Education  ResourceEarly Childhood DevelopmentHome  Community Care ProgramLawrence Commanda Health CentreLocal Medical TransportationMaternal Child HealthNon-Insured Health BenefitsNurse PractitionerNutritionGiyak Moseng - The Right Path Counseling  Prevention ServicesRecreation ProgramTraditional Healing,['SGPT']
+counselling,1634,Beaubien Dumont,Art-therapist,"['SGPT', 'XLNet']"
+counselling,5812,Toni Caverly,Caverly Counselling offers virtual and walk  talk individual counselling  psychotherapy to individuals (14+) across Eastern Ontario.,['SGPT']
+counselling,4693,Turning Point Counselling,"Turning Point Counselling provides individual, couple and family counselling and therapy.",['SGPT']
+counselling,5814,Dr. Patrick Carney,Clinical Psychologist providing Counselling and Therapy in Barrie and Area,['SGPT']
+counselling,3293,Addiction Services for York Region,*Intake  Referral*Counselling*Outreach*Specialized Programs,['SGPT']
+counselling,4556,"Forging Forward Counselling Services - Owned by Lisa D. Bowman, MSW, RSW, PsyT, RRP, TITC-CT","Our services offer:Individual, Couple, and Family Counselling Counselling for children, youth, and adults Family Separations and Divorce Co-parenting CounsellingParenting supportStress and anxiety ManagementVocational Rehabilitation CounsellingTrauma CounsellingMotor Vehicle Accident Therapy",['SGPT']
+counselling,6052,Mary Cross,"Online Therapy  Counselling for Adults, Youth  Teens in Ontario by Guelph Social Worker  Therapist Mary Cross",['SGPT']
+counselling,1505,Ms. Patricia McCracken,"Provides various services: * Trauma Counselling/Psychotherapy, * EMDR Therapy* Couple/Family Therapy, * Anger Management  Conflict Mediation, * Telecounselling* Career Counselling * CISM Interventions* Sex Therapy* Anxiety/Stress Management",['SGPT']
+depression,567,Lorimer,"Senior therapist, instructor therapist, tutor.",['XLNet']
+depression,1779,UBC Hospital - Nutrition Outpatient Counselling,"Outpatient Nutritional Counselling Services, Physician referral required.",['XLNet']
+depression,5475,Suicide Action Montréal,Centre de prévention du suicide.,['XLNet']
+depression,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+depression,842,Deuil secours,"Help line, bereavement support group.",['XLNet']
+depression,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",['XLNet']
+depression,1047,"Tr'ondëk Hwëch'in First Nations, National Native Alcohol and Drug Abuse Program",National Native Alcohol and Drug Abuse Program,['XLNet']
+anxiety,567,Lorimer,"Senior therapist, instructor therapist, tutor.",['XLNet']
+anxiety,5475,Suicide Action Montréal,Centre de prévention du suicide.,['XLNet']
+anxiety,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+anxiety,4315,Plantagenet Family Health Team,Family health team.,['XLNet']
+anxiety,4382,Counselling,"Counselling services for depression, anxiety, and stress management",['XLNet']
+anxiety,842,Deuil secours,"Help line, bereavement support group.",['XLNet']
+anxiety,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",['XLNet']
+psychiatrist,567,Lorimer,"Senior therapist, instructor therapist, tutor.",['XLNet']
+psychiatrist,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+psychiatrist,5147,Keith Marlowe,"Marital therapy, Trauma",['XLNet']
+psychiatrist,5475,Suicide Action Montréal,Centre de prévention du suicide.,['XLNet']
+psychiatrist,2349,Christine Vestervelt,* Individual Psychological Services* Couple / Marital Psychological Services* Clinical Psychotherapy* Pastoral Counselling* Insurance Coverage,['XLNet']
+adhd,5794,Edcommodate,Pychoeducational Assessments,['XLNet']
+adhd,1749,Guoba,Offers bereavement therapy,['XLNet']
+adhd,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+adhd,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+adhd,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+adhd,3809,Gerry Philipps-Gange,Registered psychotherapist in Toronto.,['XLNet']
+adhd,5463,Julie Wright,Psychological counselling services for adults.,['XLNet']
+adhd,3864,Neeti Sachdeva,"Assessment, consultation and therapy for children.",['XLNet']
+adhd,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,['XLNet']
+adhd,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,['XLNet']
+psychologist,567,Lorimer,"Senior therapist, instructor therapist, tutor.",['XLNet']
+psychologist,5475,Suicide Action Montréal,Centre de prévention du suicide.,['XLNet']
+psychologist,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+psychologist,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",['XLNet']
+psychologist,2349,Christine Vestervelt,* Individual Psychological Services* Couple / Marital Psychological Services* Clinical Psychotherapy* Pastoral Counselling* Insurance Coverage,['XLNet']
+psychiatrists,5794,Edcommodate,Pychoeducational Assessments,['XLNet']
+psychiatrists,1749,Guoba,Offers bereavement therapy,['XLNet']
+psychiatrists,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,['XLNet']
+psychiatrists,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,['XLNet']
+psychiatrists,1786,Trail Child &amp; Youth Mental Health,Provides assessment for clients with eating disorders,['XLNet']
+psychiatrists,3130,Tri-City Psychology Services Inc.,"Provides counselling, therapy and assessments for adults and adolescents",['XLNet']
+psychiatrists,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+psychiatrists,5336,Ms. Katharine De Santos,Provides psychotherapy for 16+ years of age,['XLNet']
+psychiatrists,5463,Julie Wright,Psychological counselling services for adults.,['XLNet']
+psychiatrists,3144,Lila Knighton,Provides counselling and psychotherapy to individuals in west-central Toronto,['XLNet']
+Autism,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+Autism,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+Autism,5940,Fight 4 Freedom,Anti human sex trafficking non profit Christian organization,['XLNet']
+Autism,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['XLNet']
+Autism,2316,Dr. Walter Templeman Health Care Centre,20 Bed facility that provides health services to Bell Island Residents,['XLNet']
+Psychologists,5794,Edcommodate,Pychoeducational Assessments,['XLNet']
+Psychologists,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,['XLNet']
+Psychologists,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+Psychologists,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+Psychologists,5241,Mindshift clinic,Counselling services - neuro feedback and biofeedback,['XLNet']
+Psychologists,6203,Ancestral Memory Therapy,Trauma informed virtual therapy for adults.,['XLNet']
+Psychologists,2316,Dr. Walter Templeman Health Care Centre,20 Bed facility that provides health services to Bell Island Residents,['XLNet']
+Psychologists,5463,Julie Wright,Psychological counselling services for adults.,['XLNet']
+Psychologists,5940,Fight 4 Freedom,Anti human sex trafficking non profit Christian organization,['XLNet']
+Psychologists,913,HealthPost.ca - Canadian Health Forum,Health forum and support groups for Canadians.,['XLNet']
+mental health,5475,Suicide Action Montréal,Centre de prévention du suicide.,['XLNet']
+mental health,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+mental health,3362,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+mental health,3360,How to improve communication,Explore effective communication techniques    Identify contracts    Learn active listening,['XLNet']
+mental health,1909,Dr. Patricia Behnke,Child psychologist offer assessment and therapy.,['XLNet']
+mental health,6203,Ancestral Memory Therapy,Trauma informed virtual therapy for adults.,['XLNet']
+counselling,3809,Gerry Philipps-Gange,Registered psychotherapist in Toronto.,['XLNet']
+counselling,5794,Edcommodate,Pychoeducational Assessments,['XLNet']
+counselling,4354,Silva Redigonda,Individual PsychotherapyCouple TherapyFamily Therapy,['XLNet']
+counselling,3864,Neeti Sachdeva,"Assessment, consultation and therapy for children.",['XLNet']
+counselling,567,Lorimer,"Senior therapist, instructor therapist, tutor.",['XLNet']
+counselling,5000,Pamela Holm,"Registered Psychotherapist, Certified Music Therapist",['XLNet']
