@@ -17,5 +17,3 @@
     * Model: SGPT-CE
     * Use cosine similarity to find match between records and taxonomy
     * In this file, we've also added keyword search to limit the number documents we need to search.
-
-* 
