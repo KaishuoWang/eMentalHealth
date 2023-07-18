@@ -1,5 +1,7 @@
 # SGPT
 
+This folder contains all files for SGPT.
+
 * SGPT_demo.ipynb:
     * Model: SGPT-BE
     * Use cosine similarity to find match between the given query and taxonomy / records
