@@ -1,0 +1,164 @@
+version: '3.1'
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+intents:
+- greet
+- goodbye
+- affirm
+- bot_challenge
+
+forms:
+  emental_health_form:
+    required_slots:
+      - user_first_name
+      - patient_first_name
+      - relationship_user_patient
+      - patient_age
+      - patient_year_of_birth
+      - patient_gender
+      - patient_gender_pronouns
+      - patient_living_with
+      - patient_grade
+      - patient_school
+
+slots:
+  user_first_name:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: user_first_name
+  patient_first_name:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_first_name
+  relationship_user_patient:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: relationship_user_patient
+  patient_age:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_age
+  patient_year_of_birth:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_year_of_birth
+  patient_gender:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_gender
+  patient_gender_pronouns:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_gender_pronouns
+  patient_living_with:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_living_with
+  patient_grade:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_grade
+  patient_school:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+        conditions:
+         - active_loop: emental_health_form
+           requested_slot: patient_school
+
+responses:
+  utter_greet:
+  - text: Hey! I'm here to provide help to any of your mental health issues. For me to help you better, could you please answer my following questions?
+  utter_goodbye:
+  - text: Bye
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+
+  utter_ask_user_first_name:
+  - text: What is your first name?
+  utter_ask_patient_first_name:
+  - text: So {user_first_name}, what is the patient's first name?
+  utter_ask_relationship_user_patient:
+  - text: What is the relationship between you and {patient_first_name}?
+  utter_ask_patient_age:
+  - text: What is {patient_first_name}'s age?
+  utter_ask_patient_year_of_birth:
+  - text: What is {patient_first_name}'s year of birth?
+  utter_ask_patient_gender:
+  - text: What is {patient_first_name}'s gender at birth?
+  utter_ask_patient_gender_pronouns:
+  - text: What is {patient_first_name}'s gender pronouns?
+  utter_ask_patient_living_with:
+  - text: Who does {patient_first_name} live with?
+  utter_ask_patient_grade:
+  - text: What grade is {patient_first_name} in?
+  utter_ask_patient_school:
+  - text: What school does {patient_first_name} go to?
+
+  utter_submit:
+  - text: Ok. Thanks!
+  utter_slots_values:
+  - text: I will remember that your name is {user_first_name}, and the patient's first name is {patient_first_name} 
+          your relationship with {patient_first_name} is {relationship_user_patient}.
+          {patient_first_name} is {patient_age} years old, born in {patient_year_of_birth}.
+          The gender at birth on {patient_first_name} is {patient_gender}
+          is {patient_gender}, gender pronouns is {patient_gender_pronouns}, 
+          and {patient_first_name} lives with {patient_living_with}. 
+          {patient_first_name} is in grade {patient_grade} at {patient_school}.
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_iamabot
+- utter_slots_values
+- utter_submit
+- utter_ask_user_first_name
+- utter_ask_patient_first_name
+- utter_ask_relationship_user_patient
+- utter_ask_patient_age
+- utter_ask_patient_year_of_birth
+- utter_ask_patient_gender
+- utter_ask_patient_gender_pronouns
+- utter_ask_patient_living_with
+- utter_ask_patient_grade
+- utter_ask_patient_school

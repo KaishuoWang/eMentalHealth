@@ -1,0 +1,23 @@
+version: "3.1"
+
+stories:
+- story: interactive story 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: affirm
+  - action: emental_health_form
+  - active_loop: emental_health_form
+  - slot_was_set:
+    - requested_slot: user_first_name
+  - slot_was_set:
+    - user_first_name: vincent
+  - slot_was_set:
+    - requested_slot: patient_first_name
+  - slot_was_set:
+    - patient_first_name: mcvincent
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: utter_submit
+  - action: utter_slots_values

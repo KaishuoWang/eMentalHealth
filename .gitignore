@@ -1,3 +1,6 @@
+chatbot-rasa/models
+chatbot-rasa/.rasa
+../model_output
 output/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,windows,macos,visualstudiocode,pycharm,intellij,jupyternotebooks
