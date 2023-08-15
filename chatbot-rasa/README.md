@@ -7,7 +7,7 @@ This is a simple demo of a Rasa chatbot illustrating how to use chatbot to colle
 ### Run the chatbot with python and webhook
 ```bash
 $ pip install -U rasa[spacy]
-$ python3 -m spacy download en_core_web_lg
+$ python -m spacy download en_core_web_lg
 $ rasa train
 $ rasa run
 ```
@@ -17,7 +17,7 @@ Then in another terminal, you need to run `chatbot-rasa.py` to chat with the bot
 ### Run the chatbot in terminal
 ```bash
 $ pip install -U rasa[spacy]
-$ python3 -m spacy download en_core_web_lg
+$ python -m spacy download en_core_web_lg
 $ rasa train
 $ rasa shell
 ```
