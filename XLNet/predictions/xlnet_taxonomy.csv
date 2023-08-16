@@ -1,0 +1,101 @@
+Search Term,Record ID,Name,Description,Similarity score
+depression,0,Root,Root,0.679929117529799
+depression,115,Abuse,"Abuse is when one person is harmed physically, emotionally or sexually by another person.",0.58459524669453
+depression,98,School Boards,"Schools are managed by different school boards, which are organized by geographic region, language and religion.",0.580964194320486
+depression,83,"Indigenous, First Nations, Inuit and Métis (FNIM)","Mental health resources for people who identify as Indigenous or Aboriginal, including First Nations, Inuit and Mtis.",0.5696435407682512
+depression,123,Service Area Types,Service Types Test-English,0.5680370130027543
+depression,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.555133936976517
+depression,166,Somatoform Disorders,"Somatoform disorders are conditions where patients have persistent, trouble medical complaints, which remain medically unexplained despite appropriate assessment and investigations by health care professionals.",0.5506296767675566
+depression,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.5433492671891531
+depression,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.5417992520409847
+depression,14,Autism and Autism Spectrum Disorders,"Many terms  including autism spectrum and pervasive developmental disorders  are used to describe a group of disorders that inhibit the development of communication and socialization skills. In some children the disorder may also affect the development of fine and gross motor ability. It may range from being severe on one end, with the severely autistic child who is developmentally delayed and who is unable to function independently, to an individual with Asperger Syndromewho has difficulties with social function but who otherwise functions well intellectually and at work.",0.5312879559640394
+anxiety,0,Root,Root,0.7283611714886237
+anxiety,115,Abuse,"Abuse is when one person is harmed physically, emotionally or sexually by another person.",0.6263927733391548
+anxiety,83,"Indigenous, First Nations, Inuit and Métis (FNIM)","Mental health resources for people who identify as Indigenous or Aboriginal, including First Nations, Inuit and Mtis.",0.610247673619662
+anxiety,98,School Boards,"Schools are managed by different school boards, which are organized by geographic region, language and religion.",0.6000767466504784
+anxiety,123,Service Area Types,Service Types Test-English,0.5922588009509798
+anxiety,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.5918065446963348
+anxiety,166,Somatoform Disorders,"Somatoform disorders are conditions where patients have persistent, trouble medical complaints, which remain medically unexplained despite appropriate assessment and investigations by health care professionals.",0.5830693898863022
+anxiety,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.5824084538514779
+anxiety,84,General Community Mental Health Services,This section has Community Mental Health Services that do not specifically fit into any of the other more specialized categories.,0.5717361778255574
+anxiety,145,Forensic resources,Resources for people with mental health needs who are having problems with the law.,0.5709383946545497
+psychiatrist,0,Root,Root,0.7102270454579123
+psychiatrist,123,Service Area Types,Service Types Test-English,0.6261713384639038
+psychiatrist,115,Abuse,"Abuse is when one person is harmed physically, emotionally or sexually by another person.",0.5931308811828829
+psychiatrist,83,"Indigenous, First Nations, Inuit and Métis (FNIM)","Mental health resources for people who identify as Indigenous or Aboriginal, including First Nations, Inuit and Mtis.",0.5907798330585909
+psychiatrist,98,School Boards,"Schools are managed by different school boards, which are organized by geographic region, language and religion.",0.5876309995132583
+psychiatrist,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.5660829499124419
+psychiatrist,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.565794936161598
+psychiatrist,166,Somatoform Disorders,"Somatoform disorders are conditions where patients have persistent, trouble medical complaints, which remain medically unexplained despite appropriate assessment and investigations by health care professionals.",0.5653093306852232
+psychiatrist,142,Mentoring Programs,"Programs that provide mentorship, in which a more experienced person helps a less experienced person.",0.5609759353727556
+psychiatrist,159,Mindfulness and Mindfulness Therapies,"Therapies that include mindfulness, mindfulness meditation and mindfulness-based cognitive therapy (MCBT) and mindfulness based stress reduction (MBSR).",0.5575127505762515
+adhd,0,Root,Root,0.805904869410853
+adhd,123,Service Area Types,Service Types Test-English,0.6925400977979349
+adhd,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6770255899201506
+adhd,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6746015525379531
+adhd,73,"Females (Girls, Women)",This section has mental health resources that may be specifically of interest for women.,0.6318263023012222
+adhd,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.6259250978003674
+adhd,127,Immigrants and Newcomers,This section has mental health resources that may be of specific interest to immigrants and newcomers.,0.6240320369438405
+adhd,103,Seniors,This section has mental health resources of general interest to those aged 55 and older.,0.6036658831228403
+adhd,116,Food and Nutrition,This section has programs that provide food or low cost food to those in need.,0.5921638755162205
+adhd,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.5800581836473337
+psychologist,0,Root,Root,0.6848309664090965
+psychologist,123,Service Area Types,Service Types Test-English,0.6036410984905075
+psychologist,115,Abuse,"Abuse is when one person is harmed physically, emotionally or sexually by another person.",0.5854628962697719
+psychologist,83,"Indigenous, First Nations, Inuit and Métis (FNIM)","Mental health resources for people who identify as Indigenous or Aboriginal, including First Nations, Inuit and Mtis.",0.5773328299630909
+psychologist,98,School Boards,"Schools are managed by different school boards, which are organized by geographic region, language and religion.",0.5663505157426935
+psychologist,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.5575559481948413
+psychologist,166,Somatoform Disorders,"Somatoform disorders are conditions where patients have persistent, trouble medical complaints, which remain medically unexplained despite appropriate assessment and investigations by health care professionals.",0.5557569041372014
+psychologist,142,Mentoring Programs,"Programs that provide mentorship, in which a more experienced person helps a less experienced person.",0.5450315024479345
+psychologist,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.5438096220822426
+psychologist,54,Recreation and Leisure,Recreation and leisure refers to activities for relaxation and amusement. Having appropriate recreation and leisure activities can be extremely helpful (and even essential) for ones mental health.,0.5395288958777329
+psychiatrists,0,Root,Root,0.8156728291533267
+psychiatrists,123,Service Area Types,Service Types Test-English,0.7626309330988964
+psychiatrists,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.7217244498534737
+psychiatrists,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.7167399856721623
+psychiatrists,73,"Females (Girls, Women)",This section has mental health resources that may be specifically of interest for women.,0.6584581533673255
+psychiatrists,127,Immigrants and Newcomers,This section has mental health resources that may be of specific interest to immigrants and newcomers.,0.6156418900659739
+psychiatrists,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6122551002041228
+psychiatrists,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.5989070561286415
+psychiatrists,103,Seniors,This section has mental health resources of general interest to those aged 55 and older.,0.5977325991379465
+psychiatrists,136,Rural and Remote,This section has mental health resources that may be specifically of interest to help those living in rural and remote areas.,0.5818942347874724
+Autism,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.7898062297889911
+Autism,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.7884477973621695
+Autism,123,Service Area Types,Service Types Test-English,0.7760286432204918
+Autism,0,Root,Root,0.7683794732307656
+Autism,73,"Females (Girls, Women)",This section has mental health resources that may be specifically of interest for women.,0.7066897025601867
+Autism,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.6640047160204547
+Autism,127,Immigrants and Newcomers,This section has mental health resources that may be of specific interest to immigrants and newcomers.,0.662879250374463
+Autism,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.653637150470184
+Autism,103,Seniors,This section has mental health resources of general interest to those aged 55 and older.,0.6417862699809087
+Autism,116,Food and Nutrition,This section has programs that provide food or low cost food to those in need.,0.6187478111156591
+Psychologists,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.8356245836346085
+Psychologists,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.8349632703166993
+Psychologists,123,Service Area Types,Service Types Test-English,0.8222011612656078
+Psychologists,73,"Females (Girls, Women)",This section has mental health resources that may be specifically of interest for women.,0.7924069976216187
+Psychologists,0,Root,Root,0.751491839402981
+Psychologists,127,Immigrants and Newcomers,This section has mental health resources that may be of specific interest to immigrants and newcomers.,0.745292836607487
+Psychologists,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.742799182840939
+Psychologists,103,Seniors,This section has mental health resources of general interest to those aged 55 and older.,0.7190115454672988
+Psychologists,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.718219761861228
+Psychologists,116,Food and Nutrition,This section has programs that provide food or low cost food to those in need.,0.697513220794168
+mental health,0,Root,Root,0.7897467694788542
+mental health,123,Service Area Types,Service Types Test-English,0.7327807635411684
+mental health,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6878780535318366
+mental health,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6865528592299766
+mental health,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.650106983912715
+mental health,73,"Females (Girls, Women)",This section has mental health resources that may be specifically of interest for women.,0.6326235487304483
+mental health,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.6251636722958702
+mental health,103,Seniors,This section has mental health resources of general interest to those aged 55 and older.,0.6155795565415315
+mental health,127,Immigrants and Newcomers,This section has mental health resources that may be of specific interest to immigrants and newcomers.,0.6123555251407429
+mental health,83,"Indigenous, First Nations, Inuit and Métis (FNIM)","Mental health resources for people who identify as Indigenous or Aboriginal, including First Nations, Inuit and Mtis.",0.6055871079402068
+counselling,0,Root,Root,0.8140831403683165
+counselling,123,Service Area Types,Service Types Test-English,0.731451094403599
+counselling,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.682642608776015
+counselling,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6778794820324584
+counselling,146,Other Legal Resources,This section has legal resources that do not fit into other categories.,0.6445350575035736
+counselling,73,"Females (Girls, Women)",This section has mental health resources that may be specifically of interest for women.,0.6326316305003031
+counselling,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6175505545973268
+counselling,127,Immigrants and Newcomers,This section has mental health resources that may be of specific interest to immigrants and newcomers.,0.6137473759961459
+counselling,83,"Indigenous, First Nations, Inuit and Métis (FNIM)","Mental health resources for people who identify as Indigenous or Aboriginal, including First Nations, Inuit and Mtis.",0.6094638759181937
+counselling,116,Food and Nutrition,This section has programs that provide food or low cost food to those in need.,0.609247193404272
