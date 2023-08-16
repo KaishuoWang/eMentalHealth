@@ -1,0 +1,101 @@
+Search Term,Record ID,Name,Description,Similarity score
+depression,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7548775861015387
+depression,1634,Beaubien Dumont,Art-therapist,0.746035164524368
+depression,5147,Keith Marlowe,"Marital therapy, Trauma",0.7283114608561888
+depression,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,0.6968205641779914
+depression,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",0.6829363939580757
+depression,668,Ontario Fragile X Support Group,Support group for Fragile X.,0.6800384098143929
+depression,4315,Plantagenet Family Health Team,Family health team.,0.6769688302216313
+depression,4382,Counselling,"Counselling services for depression, anxiety, and stress management",0.6690445411291561
+depression,5429,Julian D'Souza,"Counselling for Addictions, Depression, Anxiety and Couples counselling.",0.666216778018133
+depression,3822,Crystal Arber,"Provides PTSD Counselling using EMDRHelp for flashbacks, nightmares, difficulty regulating feelings or feeling numb. Help for addictions. Provide Family therapy and teen counselling",0.663868133607157
+anxiety,5147,Keith Marlowe,"Marital therapy, Trauma",0.7134136247853156
+anxiety,5693,Cleidemar Teani,Counselling and Psychotherapy,0.6981796882480175
+anxiety,1634,Beaubien Dumont,Art-therapist,0.6852765991624012
+anxiety,4149,Natalie Shay,Provides counselling in adults and youth in * Stress Management * Anxiety * Panic disorders * Emotional Eating *  Binge Eating * Weight loss * Obesity * Self esteem * CBT,0.6756835310216136
+anxiety,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",0.6698934739706549
+anxiety,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,0.6668504319664691
+anxiety,3854,Mark Fraser,"Psychotherapy for stress and anger management, anxiety, depression, ADHD and Neurofeedback",0.662602123489605
+anxiety,3822,Crystal Arber,"Provides PTSD Counselling using EMDRHelp for flashbacks, nightmares, difficulty regulating feelings or feeling numb. Help for addictions. Provide Family therapy and teen counselling",0.6606637263569639
+anxiety,5670,Ms. Parisa Ghanbari,"Psychotherapy services in Farsi  EnglishFor individuals with anxiety, depression, relationships, family issues, stress, life transition",0.657436391471647
+anxiety,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,0.6503865620002147
+psychiatrist,1634,Beaubien Dumont,Art-therapist,0.8395518837297252
+psychiatrist,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7589189554767067
+psychiatrist,620,Dr. Carole St. Denis,Psychologist in private practice.,0.7505665981765811
+psychiatrist,618,Horne,Psychologist in private practice.,0.7505665981765811
+psychiatrist,617,Dr. Petra Duschner,Psychologist in private practice.,0.7505665981765811
+psychiatrist,616,Bowles,Psychologist in private practice.,0.7505665981765811
+psychiatrist,614,Dr. Sandra Burns,Psychologist in private practice.,0.7505665981765811
+psychiatrist,613,Brunette,Psychologist in private practice.,0.7505665981765811
+psychiatrist,612,Borovay,Psychologist in private practice.,0.7505665981765811
+psychiatrist,610,Bloch,Psychologist in private practice.,0.7505665981765811
+adhd,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7788828524685373
+adhd,5147,Keith Marlowe,"Marital therapy, Trauma",0.7661838456450953
+adhd,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,0.7605844362507029
+adhd,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,0.7582665277088367
+adhd,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",0.7573492078935486
+adhd,3854,Mark Fraser,"Psychotherapy for stress and anger management, anxiety, depression, ADHD and Neurofeedback",0.7420273682279395
+adhd,1634,Beaubien Dumont,Art-therapist,0.7412019800846903
+adhd,3126,Dr. David Teplin,"Primary focus on clinical assessment of adult ADHD, substance use problems, anxiety (some forms), and depression (some forms).",0.7293297670918664
+adhd,4382,Counselling,"Counselling services for depression, anxiety, and stress management",0.7263341533098204
+adhd,5508,Jenna Matisz,Registered Social WorkerSpecializes in treating eating disorders,0.7252582580011376
+psychologist,1634,Beaubien Dumont,Art-therapist,0.8618107979597243
+psychologist,620,Dr. Carole St. Denis,Psychologist in private practice.,0.7828278717819257
+psychologist,618,Horne,Psychologist in private practice.,0.7828278717819257
+psychologist,617,Dr. Petra Duschner,Psychologist in private practice.,0.7828278717819257
+psychologist,616,Bowles,Psychologist in private practice.,0.7828278717819257
+psychologist,614,Dr. Sandra Burns,Psychologist in private practice.,0.7828278717819257
+psychologist,613,Brunette,Psychologist in private practice.,0.7828278717819257
+psychologist,612,Borovay,Psychologist in private practice.,0.7828278717819257
+psychologist,610,Bloch,Psychologist in private practice.,0.7828278717819257
+psychologist,609,Ms. Susan Baxt,Psychologist in private practice.,0.7828278717819257
+psychiatrists,1634,Beaubien Dumont,Art-therapist,0.7892247896848608
+psychiatrists,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7758570090922546
+psychiatrists,620,Dr. Carole St. Denis,Psychologist in private practice.,0.7493637773790464
+psychiatrists,618,Horne,Psychologist in private practice.,0.7493637773790464
+psychiatrists,617,Dr. Petra Duschner,Psychologist in private practice.,0.7493637773790464
+psychiatrists,616,Bowles,Psychologist in private practice.,0.7493637773790464
+psychiatrists,614,Dr. Sandra Burns,Psychologist in private practice.,0.7493637773790464
+psychiatrists,613,Brunette,Psychologist in private practice.,0.7493637773790464
+psychiatrists,612,Borovay,Psychologist in private practice.,0.7493637773790464
+psychiatrists,610,Bloch,Psychologist in private practice.,0.7493637773790464
+Autism,1634,Beaubien Dumont,Art-therapist,0.77213776962316
+Autism,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7401649564672018
+Autism,5147,Keith Marlowe,"Marital therapy, Trauma",0.7284790929701174
+Autism,668,Ontario Fragile X Support Group,Support group for Fragile X.,0.7116517900642193
+Autism,4315,Plantagenet Family Health Team,Family health team.,0.707420676368189
+Autism,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,0.7067875856959941
+Autism,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,0.694784250639374
+Autism,5794,Edcommodate,Pychoeducational Assessments,0.6846936850569585
+Autism,5174,Ms. Sara Saniee,"Counseling and psychotherapy for trauma  PTSD, anxiety and depression.",0.6812442433592586
+Autism,5508,Jenna Matisz,Registered Social WorkerSpecializes in treating eating disorders,0.6775856785031695
+Psychologists,1634,Beaubien Dumont,Art-therapist,0.8124606404168816
+Psychologists,5693,Cleidemar Teani,Counselling and Psychotherapy,0.7531872303665226
+Psychologists,4315,Plantagenet Family Health Team,Family health team.,0.7313171038739914
+Psychologists,620,Dr. Carole St. Denis,Psychologist in private practice.,0.7254289234873089
+Psychologists,618,Horne,Psychologist in private practice.,0.7254289234873089
+Psychologists,617,Dr. Petra Duschner,Psychologist in private practice.,0.7254289234873089
+Psychologists,616,Bowles,Psychologist in private practice.,0.7254289234873089
+Psychologists,614,Dr. Sandra Burns,Psychologist in private practice.,0.7254289234873089
+Psychologists,613,Brunette,Psychologist in private practice.,0.7254289234873089
+Psychologists,612,Borovay,Psychologist in private practice.,0.7254289234873089
+mental health,5693,Cleidemar Teani,Counselling and Psychotherapy,0.8114778308248788
+mental health,5147,Keith Marlowe,"Marital therapy, Trauma",0.7993925820582509
+mental health,4382,Counselling,"Counselling services for depression, anxiety, and stress management",0.7773506158079571
+mental health,3488,Montreal Centre for Anxiety and Depression,Provides therapy for people with anxiety or depression.,0.7728742028786502
+mental health,5508,Jenna Matisz,Registered Social WorkerSpecializes in treating eating disorders,0.7715541524090884
+mental health,4315,Plantagenet Family Health Team,Family health team.,0.7660150564874209
+mental health,3945,Dr. Bruce Linder,Psychological and Psychoeducational Assessments,0.7629268439598983
+mental health,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,0.7553009965129994
+mental health,3864,Neeti Sachdeva,"Assessment, consultation and therapy for children.",0.7551781008827214
+mental health,2683,Dr. Angela McHolm,Expertise in selective mutism and childhood anxiety.,0.7545487901714246
+counselling,5693,Cleidemar Teani,Counselling and Psychotherapy,0.925876391098004
+counselling,5429,Julian D'Souza,"Counselling for Addictions, Depression, Anxiety and Couples counselling.",0.8314610301077892
+counselling,4382,Counselling,"Counselling services for depression, anxiety, and stress management",0.8220936853093596
+counselling,1749,Guoba,Offers bereavement therapy,0.8186799487441702
+counselling,4956,Lisa Machek,Providing individual and family counselling.,0.8181545262625132
+counselling,5016,Dr. Wendy LeDoux &amp; Associates,Psychological ServicesAssessment  PsychotherapyFamily Counselling,0.8122625644507987
+counselling,1761,"Family Plus Life Solutions, Inc.","Professional Therapeutic Services, Counselling and Education",0.808755928536349
+counselling,4878,MA Davison,Private counselling for adults and youth,0.7991560516529731
+counselling,3944,Elzbieta Letourneau,"Individual, couple and family therapy.",0.795383285848277
+counselling,5147,Keith Marlowe,"Marital therapy, Trauma",0.7927000717911488

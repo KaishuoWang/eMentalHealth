@@ -1,0 +1,101 @@
+Search Term,Record ID,Name,Description,Similarity score
+depression,0,Root,Root,0.6909701009744027
+depression,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6852838457700823
+depression,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6852838457700823
+depression,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.6489128946718347
+depression,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6381502204345583
+depression,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.6338349960333863
+depression,123,Service Area Types,Service Types Test-English,0.6011160231321039
+depression,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.5984732123826949
+depression,62,Hypnotherapy and Hypnosis,"Hypnotherapy, which uses hypnosis to create a state of relaxation, which can thus be helpful in a variety of conditions, such as anxiety conditions (e.g. phobias).",0.5800142662129082
+depression,6,Hospital Emergency Department,"Is there an emergency such as medical or mental health emergency? If less intense options (e.g. calling a crisis line) are not possible or havent helped, then it may be helpful to visit the local hospital Emergency Department. Typical mental health emergencies include:* thoughts of suicide to the point where the person requires emergency help to keep them from ending their life;* manic episode or psychosis where a person is behaving in an irrational way with inability to function.",0.5757328700313608
+anxiety,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6583807560153887
+anxiety,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6583807560153887
+anxiety,0,Root,Root,0.6444463826655719
+anxiety,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.6440101444351032
+anxiety,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.6168462923388748
+anxiety,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6009654910497078
+anxiety,12,Attention Deficit Disorders (ADD/ADHD),"Attention deficit hyperactivity disorder (ADHD) and attention-deficit disorder (ADD) are conditions where individuals have extreme problems with inattention and distractibility, to the point that it causes problems with school, home or relationships. Individuals with ADHD also have hyperactivity (troubles sitting still, fidgeting) and impulsivity (acting without thinking first).",0.6009533215208493
+anxiety,62,Hypnotherapy and Hypnosis,"Hypnotherapy, which uses hypnosis to create a state of relaxation, which can thus be helpful in a variety of conditions, such as anxiety conditions (e.g. phobias).",0.5941941227963037
+anxiety,123,Service Area Types,Service Types Test-English,0.59305287691489
+anxiety,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.5877933829460229
+psychiatrist,0,Root,Root,0.6949969351446601
+psychiatrist,123,Service Area Types,Service Types Test-English,0.6182086345379695
+psychiatrist,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6123933844691275
+psychiatrist,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.5830777428191789
+psychiatrist,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.5830777428191789
+psychiatrist,34,Mental Health Professionals,This section has information on how to find different types of (mental) health professionals.,0.5826615425365036
+psychiatrist,60,Psychodynamic Psychotherapy and Psychoanalysis,"Psychodynamic psychotherapy and psychoanalysis helps the individual develop insight and understanding into their past, which hopefully may then translate into positive changes in the present. Most psychiatrists (and many psychologists) have psychodynamic training. Psychoanalysis is a more involved treatment, classically involving up to a few visits per week, for many years, and is delivered by trained psychoanalysts, who tend to be psychiatrists.",0.5586128750797088
+psychiatrist,161,Walk-In Counselling,"Looking for an appointment the same day, or within a few days? Walk-in counselling clinics provide counseling services, without a need to book a long time in advance. They can be helpful for many issues such as family conflict, stress, grief, depression, anxiety, relationship issues, separation, divroce or abuse. Most of the time, no appointment is required, though some clinics may require you to call ahead the same day to book appointments for that day.",0.5583872923723768
+psychiatrist,6,Hospital Emergency Department,"Is there an emergency such as medical or mental health emergency? If less intense options (e.g. calling a crisis line) are not possible or havent helped, then it may be helpful to visit the local hospital Emergency Department. Typical mental health emergencies include:* thoughts of suicide to the point where the person requires emergency help to keep them from ending their life;* manic episode or psychosis where a person is behaving in an irrational way with inability to function.",0.5583309435343287
+psychiatrist,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.5564732475145805
+adhd,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.7603133747377795
+adhd,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.7603133747377795
+adhd,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.7281092576222015
+adhd,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6974790108010142
+adhd,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.6729691532930471
+adhd,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.6681382930512897
+adhd,123,Service Area Types,Service Types Test-English,0.6570043003917003
+adhd,0,Root,Root,0.6556799503628644
+adhd,12,Attention Deficit Disorders (ADD/ADHD),"Attention deficit hyperactivity disorder (ADHD) and attention-deficit disorder (ADD) are conditions where individuals have extreme problems with inattention and distractibility, to the point that it causes problems with school, home or relationships. Individuals with ADHD also have hyperactivity (troubles sitting still, fidgeting) and impulsivity (acting without thinking first).",0.6396028174084186
+adhd,61,Eye Movement Desensitization and Reprocessing (EMDR),"Eye Movement Desensitization and Reprocessing (EMDR) is a treatment reported as being helpful in various conditions such as anxiety, and trauma (such as post-traumatic stress disorder).",0.6378915240530391
+psychologist,0,Root,Root,0.696429750493189
+psychologist,123,Service Area Types,Service Types Test-English,0.6522413969096572
+psychologist,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6352805470098489
+psychologist,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6061721197956914
+psychologist,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6061721197956914
+psychologist,34,Mental Health Professionals,This section has information on how to find different types of (mental) health professionals.,0.5962309793216083
+psychologist,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.5824212937704888
+psychologist,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.581160559015367
+psychologist,60,Psychodynamic Psychotherapy and Psychoanalysis,"Psychodynamic psychotherapy and psychoanalysis helps the individual develop insight and understanding into their past, which hopefully may then translate into positive changes in the present. Most psychiatrists (and many psychologists) have psychodynamic training. Psychoanalysis is a more involved treatment, classically involving up to a few visits per week, for many years, and is delivered by trained psychoanalysts, who tend to be psychiatrists.",0.5756916160050483
+psychologist,178,"E-Counseling, E-Therapy, Virtual Therapy, Distance Therapy","Online therapy (aka e-counseling, distance therapy) is therapy delivered by a real person over the internet.Traditionally therapy has been face-to-face, but especially since the pandemic of 2020, most providers offer remote and virtual services such as video chat (through Facetime, Skype, Zoom, MS Teams, etc.).",0.5724727705179945
+psychiatrists,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6548353824881998
+psychiatrists,123,Service Area Types,Service Types Test-English,0.6407376607047918
+psychiatrists,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6400152925330411
+psychiatrists,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6400152925330411
+psychiatrists,0,Root,Root,0.6234769332541676
+psychiatrists,34,Mental Health Professionals,This section has information on how to find different types of (mental) health professionals.,0.6178448526458755
+psychiatrists,86,Mental Health Providers,These are resources specifically of interest to (mental) health service providers.,0.6014001367616171
+psychiatrists,60,Psychodynamic Psychotherapy and Psychoanalysis,"Psychodynamic psychotherapy and psychoanalysis helps the individual develop insight and understanding into their past, which hopefully may then translate into positive changes in the present. Most psychiatrists (and many psychologists) have psychodynamic training. Psychoanalysis is a more involved treatment, classically involving up to a few visits per week, for many years, and is delivered by trained psychoanalysts, who tend to be psychiatrists.",0.5947274804887398
+psychiatrists,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.5905089811626617
+psychiatrists,145,Forensic resources,Resources for people with mental health needs who are having problems with the law.,0.5883015728200068
+Autism,0,Root,Root,0.7271910231153336
+Autism,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.7099373111704022
+Autism,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.7099373111704022
+Autism,123,Service Area Types,Service Types Test-English,0.6849765712368205
+Autism,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6586108778916436
+Autism,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.6407033979489426
+Autism,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.6200114789420121
+Autism,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.6021699687589946
+Autism,109,Asperger Syndrome,"Asperger Syndrome, sometimes referred to as Aspergers disorder, is a neurological condition that affects social and communication skills, and is one of the autism spectrum conditions.",0.5870437249893996
+Autism,61,Eye Movement Desensitization and Reprocessing (EMDR),"Eye Movement Desensitization and Reprocessing (EMDR) is a treatment reported as being helpful in various conditions such as anxiety, and trauma (such as post-traumatic stress disorder).",0.5868784749470269
+Psychologists,0,Root,Root,0.6960733832472132
+Psychologists,123,Service Area Types,Service Types Test-English,0.6643079352661123
+Psychologists,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6416796461397553
+Psychologists,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.6256442619540487
+Psychologists,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.6256442619540487
+Psychologists,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.5836877101112606
+Psychologists,34,Mental Health Professionals,This section has information on how to find different types of (mental) health professionals.,0.5808861998935572
+Psychologists,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.5704624651585806
+Psychologists,86,Mental Health Providers,These are resources specifically of interest to (mental) health service providers.,0.5676471498137332
+Psychologists,173,Post-Secondary Students (including Colleges and Universities),This section has mental health resources of interest to students attending post-secondary institutions such as colleges and universities.,0.5660810695741756
+mental health,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.7620927845318328
+mental health,119,Bulimia,See Eating Disorders including Anorexia and Bulimia,0.7264204363498248
+mental health,117,Anorexia,See Eating Disorders including Anorexia and Bulimia,0.7264204363498248
+mental health,34,Mental Health Professionals,This section has information on how to find different types of (mental) health professionals.,0.7110466062018418
+mental health,145,Forensic resources,Resources for people with mental health needs who are having problems with the law.,0.7000198881641826
+mental health,106,Mood Disorders,"Mood disorders are problems with mood such as anxiety, bipolar disorder and depression.",0.6937419134586146
+mental health,58,Counselling and Therapy,"Counselling and therapy can be helpful for dealing with a wide variety of issues (e.g. stress and coping, relationship problems)and mental health conditions (e.g. depression, anxiety, etc.)",0.6862950031091779
+mental health,170,Neurofeedback,"Neurofeedback isaway of dealing with various brain conditions (such as ADHD, depression, anxiety) by teaching the person to control and self-regulate their brain.",0.6808235932733909
+mental health,86,Mental Health Providers,These are resources specifically of interest to (mental) health service providers.,0.6726553788076989
+mental health,123,Service Area Types,Service Types Test-English,0.6632894309107333
+counselling,34,Mental Health Professionals,This section has information on how to find different types of (mental) health professionals.,0.6778554115771466
+counselling,9,A-Z Mental Health Conditions and Topics,Alphabetical list of mental health topics and conditions.,0.6692223978161097
+counselling,161,Walk-In Counselling,"Looking for an appointment the same day, or within a few days? Walk-in counselling clinics provide counseling services, without a need to book a long time in advance. They can be helpful for many issues such as family conflict, stress, grief, depression, anxiety, relationship issues, separation, divroce or abuse. Most of the time, no appointment is required, though some clinics may require you to call ahead the same day to book appointments for that day.",0.6642036162979547
+counselling,178,"E-Counseling, E-Therapy, Virtual Therapy, Distance Therapy","Online therapy (aka e-counseling, distance therapy) is therapy delivered by a real person over the internet.Traditionally therapy has been face-to-face, but especially since the pandemic of 2020, most providers offer remote and virtual services such as video chat (through Facetime, Skype, Zoom, MS Teams, etc.).",0.6639367211463003
+counselling,3,"System Navigation, including Information and Referral Services","Are you looking for help, but dont know where to get started?Consider contacting an Information and Referral (I  R) service, which can help you to 1) Find out about resources (i.e. information), and 2) Connect you to those resources (i.e. referral).",0.663467367341474
+counselling,123,Service Area Types,Service Types Test-English,0.6613630977771833
+counselling,1,All Mental Health Resources,"The listings of mental health resources include:mental health services, which are places where you can actually go to receive help; andinformation resources, where you can go to get information, but no formal services are provided.",0.6604738223071539
+counselling,175,Acceptance and Commitment Therapy (ACT),"ACT is a type of therapy that helps people by using acceptance and mindfulness, along with commitment and behaviour-change strategies.",0.6541517560911677
+counselling,145,Forensic resources,Resources for people with mental health needs who are having problems with the law.,0.6537643362019744
+counselling,86,Mental Health Providers,These are resources specifically of interest to (mental) health service providers.,0.6514718989196433
