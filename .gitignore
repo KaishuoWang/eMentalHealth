@@ -1,6 +1,8 @@
 chatbot-rasa/models
 chatbot-rasa/.rasa
-../model_output
+translation-fr-en/model_output
+translation-fr-en/khresmoi-summary-test-set
+translation-fr-en/medical-fr-en
 output/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,windows,macos,visualstudiocode,pycharm,intellij,jupyternotebooks
