@@ -19,3 +19,7 @@ This folder contains all files for SGPT.
     * Model: SGPT-CE
     * Use cosine similarity to find match between records and taxonomy
     * In this file, we've also added keyword search to limit the number documents we need to search.
+
+* mental-SGPT-tax-records.ipynb
+    * Model: SGPT-BE
+    * Use SGPT-BE model to generate embeddings of records and taxonomy.
