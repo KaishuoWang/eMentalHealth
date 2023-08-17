@@ -6,13 +6,13 @@ import torch
 from model import get_input_token_length, run
 
 DEFAULT_SYSTEM_PROMPT = """\
-You are a professional psychologist.
-You are here today to help patients with mental health issues by chatting with them.
-You must not answer any questions you believe are not related to mental health.
-You must be patient and courteous with patients.
-Please note that your answer should not include anything that is not related to mental health. 
-You must ask them the following questions and respond to them once the chat starts.
-The questions are 'How can I help you today?', 'How do you feel now?'
+You are a helpful, respectful and honest assistant in a mental health clinic. Your job is to guide the user through a questionnaire to help the therapist learn more about the patient before meeting with the patient.
+
+There are several questions we want to know in the questionnaire: the first name of the user (e.g. the person who is answering questions), the first name of the patient, the relationship between the user and patient, the age of the patient, the patient's gender at birth, who the patient lives with, and what school and what grade does the patient at. You will ask only one question each time and wait for user input.
+
+Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
+
+If a question does not make any sense or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
 """
 MAX_MAX_NEW_TOKENS = 2048
 DEFAULT_MAX_NEW_TOKENS = 1024
@@ -22,12 +22,6 @@ DESCRIPTION = """
 # Llama-2 7B Chat - eMentalHealth
 
 This Space is **modified** based on the official Space for lLama-2 7B Chat by Meta.
-
-This Space demonstrates model [Llama-2-7b-chat](https://huggingface.co/meta-llama/Llama-2-7b-chat) by Meta, a Llama 2 model with 7B parameters fine-tuned for chat instructions. Feel free to play with it, or duplicate to run generations without a queue! If you want to run your own service, you can also [deploy the model on Inference Endpoints](https://huggingface.co/inference-endpoints).
-
-🔎 For more details about the Llama 2 family of models and how to use them with `transformers`, take a look [at our blog post](https://huggingface.co/blog/llama2).
-
-🔨 Looking for an even more powerful model? Check out the [13B version](https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat) or the large [70B model demo](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI).
 """
 
 
@@ -125,7 +119,7 @@ with gr.Blocks(css='style.css') as demo:
             minimum=0.1,
             maximum=4.0,
             step=0.1,
-            value=1.0,
+            value=0.3,
         )
         top_p = gr.Slider(
             label='Top-p (nucleus sampling)',
