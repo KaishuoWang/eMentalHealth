@@ -2,6 +2,8 @@
 
 This folder contains all files for spelling check.
 
+The function of the spell checker is to recognize and correct the text entered by the user.
+
 * spelling_check.ipynb:
 	* Methods: NLTK, TextBlob, Autocorrect, Pyspellchecker
 	* Use the above 4 methods to complete the spelling check task.
