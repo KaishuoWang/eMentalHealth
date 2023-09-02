@@ -1,5 +1,5 @@
-chatbot-rasa/models
-chatbot-rasa/.rasa
+chatbot/chatbot-rasa/models
+chatbot/chatbot-rasa/.rasa
 translation-fr-en/model_output
 translation-fr-en/khresmoi-summary-test-set
 translation-fr-en/medical-fr-en
