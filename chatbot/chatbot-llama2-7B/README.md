@@ -5,6 +5,6 @@
 ## How to run
 
 ```bash
-conda activate chatbot
-python app.py
+$ conda activate chatbot
+$ python app.py
 ```
